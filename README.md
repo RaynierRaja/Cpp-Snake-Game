@@ -5,3 +5,6 @@
 3. Snake.cpp contains the snake class definition
 4. Utilities.h contains the utility class declaration
 5. Utilities.cpp contains the utility class definition
+
+## Game Snapshot
+![](https://github.com/RaynierRaja/Cpp-Snake-Game/blob/master/SnakeGameScreenShot.png)
